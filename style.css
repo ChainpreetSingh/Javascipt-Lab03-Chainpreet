@@ -1,0 +1,42 @@
+/* General reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body and font settings */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Header styling */
+h1 {
+    font-size: 32px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+/* Output section for the burger description */
+#output {
+    font-size: 18px;
+    font-weight: bold;
+    color: #16a085;
+    background-color: #fff;
+    border: 2px solid #16a085;
+    padding: 15px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 8px;
+    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.1);
+    word-wrap: break-word;
+}
+
+/* Extra spacing for better readability */
+p {
+    line-height: 1.6;
+}
